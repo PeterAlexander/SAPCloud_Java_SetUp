@@ -1,4 +1,11 @@
-cd N:\�.\My Documents�\cp100\GITHubRepository\SAPCloud_JAVA_BookStoreApp-master\SAPCloud_JAVA_BookStoreApp-master\BookStore_xx
+//Create Folders in My Documents
+cd N:\’.\My Documents’\
+mkdir cp100
+mkdir AddLibs,GITHubRepository,JarFiles,MavenRepository,WarFiles,Workspace
+
+
+// Jump in BookStore_xx
+cd N:\’.\My Documents’\cp100\GITHubRepository\SAPCloud_JAVA_BookStoreApp-master\SAPCloud_JAVA_BookStoreApp-master\BookStore_xx
 
 
 

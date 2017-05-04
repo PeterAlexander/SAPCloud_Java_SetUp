@@ -1,6 +1,7 @@
 //Create Folders in My Documents
 cd N:\’.\My Documents’\
 mkdir cp100
+cd cp100
 mkdir AddLibs,GITHubRepository,JarFiles,MavenRepository,WarFiles,Workspace
 
 

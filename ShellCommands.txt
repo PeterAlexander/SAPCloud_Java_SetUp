@@ -9,8 +9,5 @@ mkdir AddLibs,GITHubRepository,JarFiles,MavenRepository,WarFiles,Workspace
 cd N:\’.\My Documents’\CP100\GITHubRepository\Ex3\SAPCloud_JAVA_BookStoreApp-master\BookStore_xx
 
 
-//Build BookStoreApp
-cd N:\’.\My Documents’\CP100\GITHubRepository\SAPCloud_JAVA_BookStoreApp-master\SAPCloud_JAVA_BookStoreApp-master\BookStore_xx
-
 mvn --settings N:\’.\My Documents’\CP100\MavenRepository\settings.xml  -P production clean package
 

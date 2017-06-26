@@ -6,7 +6,7 @@ mkdir AddLibs,GITHubRepository,JarFiles,MavenRepository,WarFiles,Workspace
 
 
 // Jump in BookStore_xx
-cd N:\’.\My Documents’\CP100\GITHubRepository\SAPCloud_JAVA_BookStoreApp-master\BookStore_xx
+cd N:\’.\My Documents’\CP100\GITHubRepository\Ex3\SAPCloud_JAVA_BookStoreApp-master\BookStore_xx
 
 
 //Build BookStoreApp

@@ -1,12 +1,12 @@
 //Create Folders in My Documents
 cd N:\’.\My Documents’\
-mkdir cp100
-cd cp100
+mkdir CP100
+cd CP100
 mkdir AddLibs,GITHubRepository,JarFiles,MavenRepository,WarFiles,Workspace
 
 
 // Jump in BookStore_xx
-cd N:\’.\My Documents’\CP100\GITHubRepository\Ex3\SAPCloud_JAVA_BookStoreApp-master\BookStore_xx
+cd N:\’.\My Documents’\CP100\GITHubRepository\SAPCloud_JAVA_BookStoreApp-master\BookStore_xx
 
 
 mvn --settings N:\’.\My Documents’\CP100\MavenRepository\settings.xml  -P production clean package

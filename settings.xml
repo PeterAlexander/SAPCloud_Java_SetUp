@@ -2,7 +2,7 @@
 "http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
 http://maven.apache.org/xsd/settings-1.0.0.xsd">
-<localRepository>N:\My Documents\cp100\MavenRepository</localRepository>
+<localRepository>N:\My Documents\CP100\MavenRepository</localRepository>
 <proxies>
 <proxy>
 <active>true</active>

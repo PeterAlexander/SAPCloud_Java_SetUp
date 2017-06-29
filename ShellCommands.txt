@@ -6,6 +6,7 @@ mkdir AddLibs,GITHubRepository,JarFiles,MavenRepository,WarFiles,Workspace
 
 
 // Jump in BookStore_xx
+// entzippen mit "here" damit es nur einen SAPCloud_JAVA_BookStoreApp-master Knoten gibt
 cd N:\’.\My Documents’\CP100\GITHubRepository\SAPCloud_JAVA_BookStoreApp-master\BookStore_xx
 
 
